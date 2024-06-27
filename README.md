@@ -1,2 +1,2 @@
 # aula_ocean
-Repositorio pra aula do ocea n
+Repositorio pra aula do ocean
